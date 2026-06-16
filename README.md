@@ -1,2 +1,2 @@
 <h1 align="center">Welcome to KromaRec!</h1>
-An open source server software
+<h3 align="center">An opensource server software for RecRoom</h3>
